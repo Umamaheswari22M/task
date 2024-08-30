@@ -11,4 +11,4 @@ const bike = {
 console.log(bike.brand);
 console.log(bike.model);
 console.log(bike.bestversion);
-bike.start();
+bike.Start();
