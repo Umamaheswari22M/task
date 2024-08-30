@@ -1,0 +1,23 @@
+let a = 5;
+let b = 8;
+let sum = a + b;
+console.log("sum",sum);
+let c = 15;
+let d = 20;
+let difference = c - d;
+console.log("Difference:",difference);
+let e = 16;
+let f =  9;
+let product = e * f;
+console.log("product:",product);
+let g = 20;
+let h = 10;
+let quotient = 20/10;
+console.log("Quotient:",quotient);
+let i = 20;
+let j = 4;
+let power = 20**4;
+console.log("Power:",power);
+let sqrt = Math.sqrt[16];
+console.log(sqrt);
+
